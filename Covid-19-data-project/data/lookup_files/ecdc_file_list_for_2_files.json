@@ -1,10 +1,26 @@
 [
     {
-        "sourceRelativeURL":"cloudboxacademy/covid19/raw/main/ecdc_data/cases_deaths.csv",
+        "sourceRelativeURL":"lookup_files/country_lookup.csv",
+        "sinkFileName":"country_lookup.csv"
+    },
+    {
+        "sourceRelativeURL":"lookup_files/dim_date.csv",
+        "sinkFileName":"dim_date.csv"
+    },
+    {
+        "sourceRelativeURL":"cases_deaths.csv",
         "sinkFileName":"cases_deaths.csv"
     },
     {
-        "sourceRelativeURL":"cloudboxacademy/covid19/raw/main/ecdc_data/hospital_admissions.csv",
+        "sourceRelativeURL":"country_response.csv",
+        "sinkFileName":"country_response.csv"
+    },
+    {
+        "sourceRelativeURL":"hospital_admissions.csv",
         "sinkFileName":"hospital_admissions.csv"
+    },
+    {
+        "sourceRelativeURL":"testing.csv",
+        "sinkFileName":"testing.csv"
     }
 ]
