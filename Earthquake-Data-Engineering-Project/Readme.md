@@ -148,6 +148,7 @@ earthquake-pipeline/
 
 
 ## 🙏 Acknowledgement  
+
 Special thanks to **AI Luke** for the detailed walkthrough and guidance on this project.
 ---
 
