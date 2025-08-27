@@ -12,14 +12,14 @@ Each project folder contains a detailed README that breaks down the project's ar
 
 * **Project Name:** `Bing-News`
 * **Description:** An intelligent and scalable data pipeline that fetches and analyzes news data from the Bing News API. This project integrates machine learning for sentiment analysis and uses Data Activator for real-time alerting, providing a complete solution for monitoring media trends.
-* **Link to Project:** [Bing News Pipeline](https://github.com/Puneeth0106/Fabric_Projects/tree/main/Bing-News)
+* **Link to Project:** [Bing News Pipeline](https://github.com/Puneeth0106/Fabric_Projects/tree/master/Bing-News)
 * **Key Skills:** API Integration, Machine Learning (NLP), Delta Lake, Power BI, Data Activator.
 
 #### 2. Real-time Earthquake Data Pipeline
 
 * **Project Name:** `Earthquake-Data-Project`
 * **Description:** A comprehensive data engineering solution that ingests, processes, and analyzes global earthquake data in real-time from a public API. It demonstrates a robust pipeline using Microsoft Fabric's Lakehouse, PySpark, and Power BI for impactful visualizations.
-* **Link to Project:** [Earthquake Data Pipeline](https://github.com/Puneeth0106/Fabric_Projects/tree/main/Earthquake-Data-Project)
+* **Link to Project:** [Earthquake Data Pipeline](https://github.com/Puneeth0106/Fabric_Projects/tree/master/Earthquake-Data-Project)
 * **Key Skills:** Data Ingestion, PySpark Transformations, Lakehouse Architecture (Bronze/Silver/Gold), Power BI Reporting.
 
 
