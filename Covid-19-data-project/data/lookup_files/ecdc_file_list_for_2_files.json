@@ -4,10 +4,6 @@
         "sinkFileName":"country_lookup.csv"
     },
     {
-        "sourceRelativeURL":"lookup_files/dim_date.csv",
-        "sinkFileName":"dim_date.csv"
-    },
-    {
         "sourceRelativeURL":"cases_deaths.csv",
         "sinkFileName":"cases_deaths.csv"
     },
