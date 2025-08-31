@@ -26,7 +26,7 @@ Each project folder contains a detailed README that breaks down the project's ar
 
 * **Project Name:** `COVID-19-Data-Project`
 * **Description:** An end-to-end data solution that ingests, transforms, and analyzes COVID-19 data from the ECDC. The project features a dynamic pipeline for automated data ingestion, performance-optimized dataflows for transformation, and a multi-page Power BI report for clear, actionable insights.
-* **Link to Project:** [COVID-19 Data Project](https://github.com/Puneeth0106/Fabric_Projects/tree/master/COVID-19-Data-Project)
+* **Link to Project:** [COVID-19 Data Project](https://github.com/Puneeth0106/Fabric_Projects/tree/master/COVID-19-data-project)
 * **Key Skills:** Dynamic Pipelines, Dataflows, Lakehouse/Warehouse Architecture, Data Transformation, Power BI Reporting.
 
 
