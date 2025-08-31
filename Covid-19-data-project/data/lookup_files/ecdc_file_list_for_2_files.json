@@ -1,22 +1,26 @@
 [
     {
-        "sourceRelativeURL":"lookup_files/country_lookup.csv",
+        "sourceRelativeURL":"Puneeth0106/Fabric_Projects/refs/heads/master/Covid-19-data-project/data/lookup_files/country_lookup.csv",
         "sinkFileName":"country_lookup.csv"
     },
     {
-        "sourceRelativeURL":"cases_deaths.csv",
+        "sourceRelativeURL":"Puneeth0106/Fabric_Projects/refs/heads/master/Covid-19-data-project/data/lookup_files/dim_date.csv",
+        "sinkFileName":"dim_date.csv"
+    },
+    {
+        "sourceRelativeURL":"Puneeth0106/Fabric_Projects/refs/heads/master/Covid-19-data-project/data/cases_deaths.csv",
         "sinkFileName":"cases_deaths.csv"
     },
     {
-        "sourceRelativeURL":"country_response.csv",
+        "sourceRelativeURL":"Puneeth0106/Fabric_Projects/refs/heads/master/Covid-19-data-project/data/country_response.csv",
         "sinkFileName":"country_response.csv"
     },
     {
-        "sourceRelativeURL":"hospital_admissions.csv",
+        "sourceRelativeURL":"Puneeth0106/Fabric_Projects/refs/heads/master/Covid-19-data-project/data/hospital_admissions.csv",
         "sinkFileName":"hospital_admissions.csv"
     },
     {
-        "sourceRelativeURL":"testing.csv",
+        "sourceRelativeURL":"Puneeth0106/Fabric_Projects/refs/heads/master/Covid-19-data-project/data/testing.csv",
         "sinkFileName":"testing.csv"
     }
 ]
