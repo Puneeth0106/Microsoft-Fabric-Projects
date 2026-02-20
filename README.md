@@ -12,7 +12,7 @@ Each project folder contains a detailed README that breaks down the project's ar
 
 * **Project Name:** `Bing-News`
 * **Description:** An intelligent and scalable data pipeline that fetches and analyzes news data from the Bing News API. This project integrates machine learning for sentiment analysis and uses Data Activator for real-time alerting, providing a complete solution for monitoring media trends.
-* **Link to Project:** [Bing News Pipeline](https://github.com/Puneeth0106/Microsoft-Fabric-Projects/tree/master/Bing-News-Reporting))
+* **Link to Project:** [Bing News Pipeline](https://github.com/Puneeth0106/Microsoft-Fabric-Projects/tree/master/Bing-News-Reporting)
 * **Key Skills:** API Integration, Machine Learning (NLP), Delta Lake, Power BI, Data Activator.
 
 #### 2. Real-time Earthquake Data Project
@@ -26,7 +26,7 @@ Each project folder contains a detailed README that breaks down the project's ar
 
 * **Project Name:** `COVID-19-Data-Project`
 * **Description:** An end-to-end data solution that ingests, transforms, and analyzes COVID-19 data from the ECDC. The project features a dynamic pipeline for automated data ingestion, performance-optimized dataflows for transformation, and a multi-page Power BI report for clear, actionable insights.
-* **Link to Project:** [COVID-19 Data Project][(https://github.com/Puneeth0106/Microsoft-Fabric-Projects/tree/master/Covid-19-Data-Analysis)](https://github.com/Puneeth0106/Microsoft-Fabric-Projects/tree/master/Realtime-Earthquake-Data-Analysis)
+* **Link to Project:** [COVID-19 Data Project](https://github.com/Puneeth0106/Microsoft-Fabric-Projects/tree/master/Covid-19-Data-Analysis)(https://github.com/Puneeth0106/Microsoft-Fabric-Projects/tree/master/Realtime-Earthquake-Data-Analysis)
 * **Key Skills:** Dynamic Pipelines, Dataflows, Lakehouse/Warehouse Architecture, Data Transformation, Power BI Reporting.
 
 
